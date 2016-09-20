@@ -1,0 +1,30 @@
+{
+    "name": "check-card",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "./node_modules/.bin/mocha test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vinhlv/check-card.git"
+    },
+    "keywords": [
+        "check",
+        "card"
+    ],
+    "author": "vinhlv",
+    "license": [{
+        "type": "MIT",
+        "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }],
+    "bugs": {
+        "url": "https://github.com/vinhlv/check-card/issues"
+    },
+    "homepage": "https://github.com/vinhlv/check-card#readme",
+    "devDependencies": {
+        "chai": "^3.5.0",
+        "mocha": "^3.0.2"
+    }
+}
