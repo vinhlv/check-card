@@ -9,7 +9,7 @@ A small library providing utility methods `checkCard` to check card info
 
 ## Usage
 
-  var vCheck = require('v-check-card')
+  var vCheck = require('v-check-card');
 
   console.log(vCheck.checkCard('1111222233334444'));
 
@@ -25,4 +25,4 @@ Vinhlv
 
 * 0.1.0 Initial release
 =======
-# check-card
+
