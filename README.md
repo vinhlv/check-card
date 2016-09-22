@@ -2,7 +2,7 @@ Check card
 =========
 
 A small library providing utility methods `checkCard` to check card info
-
+https://img.shields.io/npm/v/npm.svg?maxAge=100
 ## Installation
 
   npm install v-check-card --save
