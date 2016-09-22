@@ -3,8 +3,6 @@ Check card
 
 A small library providing utility methods `checkCard` to check card info
 
-[![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000?style=plastic)]()
-[![Scrutinizer branch](https://img.shields.io/scrutinizer/coverage/g/phpmyadmin/phpmyadmin/master.svg?maxAge=100?style=plastic)]()
 ## Installation
 
   npm install v-check-card --save
