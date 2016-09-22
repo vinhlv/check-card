@@ -1,6 +1,6 @@
 module.exports = {
-  checkCard: function(inputCardNumber) {
-    var _input = inputCardNumber.replace(/ /g,"");
+  checkCard: function checkCard(inputCardNumber) {
+    var _input = inputCardNumber.replace(/ /g, '');
     var cardName = 'Invalid card';
     var checkVisa = /^4[0-9]{12}(?:[0-9]{3})?$/;
     var checkMasterCard = /^5[1-5][0-9]{14}$/;
