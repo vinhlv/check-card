@@ -2,6 +2,7 @@ Check card
 =========
 
 A small library providing utility methods `checkCard` to check card info
+
 [![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000?style=plastic)]()
 ## Installation
 
