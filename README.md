@@ -1,5 +1,4 @@
-Check card
-=========
+[![Build Status](https://travis-ci.org/vinhlv/check-card.svg?branch=master)](https://travis-ci.org/vinhlv/check-card)
 
 A small library providing utility methods `checkCard` to check card info
 
@@ -25,4 +24,3 @@ Vinhlv
 
 * 0.1.0 Initial release
 =======
-
