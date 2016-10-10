@@ -5,11 +5,11 @@ A small library providing utility methods `checkCard` to check card info
 
 ## Installation
 
-  npm install v-check-card --save
+  npm install check-card --save
 
 ## Usage
 
-  var vCheck = require('v-check-card');
+  var vCheck = require('check-card');
 
   console.log(vCheck.checkCard('1111222233334444'));
 
